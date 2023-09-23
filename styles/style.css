@@ -1,0 +1,40 @@
+body {
+  background: #b6f0fa;
+  text-align: center;
+}
+
+h2 {
+  color: coral;
+}
+hr {
+  height: 1px;
+  color: #b6f0fa;
+}
+
+.center {
+  text-align: center;
+}
+.color-heading {
+  color: #35737e;
+}
+.font-heading {
+  font-family: "Lucida Sans";
+}
+#myName {
+  font-family: "Times New Roman";
+  font-size: 30px;
+  text-align: center;
+}
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  text-align: center;
+}
+#main {
+  width: 500px;
+  height: 600px;
+  background: white;
+  margin: 25px auto;
+  border: thin 2px black;
+  padding: 10px;
+}
